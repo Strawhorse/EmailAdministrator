@@ -46,6 +46,7 @@ public class EmailApp {
                 case 7:
                     System.out.println("Thank you for using JBrEmailSystems.");
                     System.out.println("This is the second commit to the main branch");
+                    System.out.println("This is the final 3rd commmit to the main branch");
                     break;
                 default:
                     System.out.println("Invalid choice. Try again.");
