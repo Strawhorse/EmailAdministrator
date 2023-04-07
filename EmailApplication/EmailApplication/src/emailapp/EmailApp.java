@@ -18,6 +18,8 @@ import java.util.*;
 public class EmailApp {
     public static void main(String[] args) {
         Scanner s = new Scanner(System.in);
+        System.out.println("Welcome to the new user entry system.");
+        System.out.println("*".repeat(15));
         System.out.println("Enter your first name: ");
         String f_name = s.next();
         System.out.println("Enter your family name: ");
