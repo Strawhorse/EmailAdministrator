@@ -1,3 +1,7 @@
+/*
+ Main Email class with all the method functionality; main logic went in the EmailApp class with Main method
+ */
+
 package emailapp;
 import java.io.FileReader;
 import java.io.FileWriter;
