@@ -8,7 +8,7 @@ John Bracken
 sba22328
 This is an email administrator app that I wrote a little while ago that would be good to use.
 Creates a user account for new employees at a company
-Can even save the login details locally
+Can even save the login details locally, though this requires to amendments using File.separator to make sure it works on Windows and Linux etc.
  */
 
 
