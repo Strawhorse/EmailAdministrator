@@ -1,5 +1,4 @@
 package emailapp;
-import java.io.FileInputStream;
 import java.io.FileReader;
 import java.io.FileWriter;
 import java.util.*;
