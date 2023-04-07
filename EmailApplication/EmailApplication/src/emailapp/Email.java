@@ -136,6 +136,7 @@ public class Email {
 
     public void storeFile() {
         try{
+            // could make changes here to the file path to use File.separator to make sure it works on linux or windows
             FileWriter in = new FileWriter("C:\\Users\\User\\Downloads\\info.txt");
             in.write("First name: "+this.fname);
             in.append("\nLast name: " + this.lname);
