@@ -20,7 +20,7 @@ public class EmailApp {
         Scanner s = new Scanner(System.in);
         System.out.println("Enter your first name: ");
         String f_name = s.next();
-        System.out.println("Enter your family name: ");
+        System.out.println("Enter your last name: ");
         String l_name = s.next();
 
         // creating an object using these details using class instantiation
