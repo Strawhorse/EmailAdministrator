@@ -58,6 +58,7 @@ public class Email {
 
     // generate random passwords method
     private String generate_password(int length) {
+        // simple password generator using Random
         Random r = new Random();
         String Capital_characters = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
         String Lowercase_letters = "abcdefghijklmnopqrstuvwxyz";
